@@ -88,17 +88,12 @@ body {
   }   
 
 
-.client-new-logo {
+.client-data {
     float: right;
     max-width: 60vw;
     max-height: 60vh; 
     position: relative;
     top: -70px;
   }
-
-h1 {
-  font-weight:bolder;
-  top: -300px;
-}
 
  
